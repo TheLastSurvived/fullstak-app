@@ -1,0 +1,34 @@
+[
+  {
+    "id": "image",
+    "name": "Картинка"
+  },
+  {
+    "id": "colorPalette",
+    "name": "Цветовая палитра"
+  },
+  {
+    "id": "align",
+    "name": "Align"
+  },
+  {
+    "id": "frame",
+    "name": "Фрейм"
+  },
+  {
+    "id": "shape",
+    "name": "Фигура"
+  },
+  {
+    "id": "text",
+    "name": "Текст"
+  },
+  {
+    "id": "icon",
+    "name": "Иконка"
+  },
+  {
+    "id": "export",
+    "name": "Экспорт"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": "moveBackground",
+    "name": "Движение заднего фона",
+    "keys": ["spacebar", "click & move"],
+    "desc": ""
+  },
+  {
+    "id": "resetZoom",
+    "name": "Сбросить приближение",
+    "keys": ["ctrl", "0"],
+    "desc": ""
+  },
+  {
+    "id": "zoomIn",
+    "name": "Приблизить",
+    "keys": ["mouse wheel"],
+    "desc": ""
+  },
+  {
+    "id": "zoomOut",
+    "name": "Отдалить",
+    "keys": ["mouse wheel"],
+    "desc": ""
+  },
+  {
+    "id": "layerUp",
+    "name": "Поднять слой выше",
+    "keys": ["shift", "up"],
+    "desc": ""
+  },
+  {
+    "id": "layerDown",
+    "name": "Опустить слой ниже",
+    "keys": ["shift", "down"],
+    "desc": ""
+  },
+  {
+    "id": "undo",
+    "name": "Отменить действие",
+    "keys": ["ctrl", "z"],
+    "desc": ""
+  },
+  {
+    "id": "redo",
+    "name": "Применить отмененное действие",
+    "keys": ["ctrl", "y"],
+    "desc": ""
+  },
+  {
+    "id": "deleteItems",
+    "name": "Удалить",
+    "keys": ["backspace"],
+    "desc": ""
+  },
+  {
+    "id": "duplicateItems",
+    "name": "Продублировать",
+    "keys": ["ctrl", "d"],
+    "desc": ""
+  },
+  {
+    "id": "copyItems",
+    "name": "Скопировать выбранные объекты",
+    "keys": ["ctrl", "c"],
+    "desc": ""
+  },
+  {
+    "id": "pasteItems",
+    "name": "Вставить скопированные объекты",
+    "keys": ["ctrl", "v"],
+    "desc": ""
+  },
+  {
+    "id": "selectAllItems",
+    "name": "Выбрать все объекты",
+    "keys": ["ctrl", "a"],
+    "desc": ""
+  },
+  {
+    "id": "flipHorizontally",
+    "name": "Повернуть горизонтально",
+    "keys": ["shift", "h"],
+    "desc": ""
+  },
+  {
+    "id": "flipVertically",
+    "name": "Повернуть вертикально",
+    "keys": ["shift", "v"],
+    "desc": ""
+  }
+]

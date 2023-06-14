@@ -1,0 +1,62 @@
+[
+  {
+    "id": "select-all",
+    "name": "Выбрать все объекты",
+    "desc": "Выбрать все объекты",
+    "icon": "bounding-box"
+  },
+  {
+    "id": "remove-background",
+    "name": "Удалить задний фон выбранного объекта",
+    "desc": "Удалить задний фон выбранного объекта",
+    "icon": "card-image"
+  },
+  {
+    "id": "flip-horizontally",
+    "name": "Повернуть горизонтально",
+    "desc": "Повернуть горизонтально",
+    "icon": "arrow-left-right"
+  },
+  {
+    "id": "flip-vertically",
+    "name": "Повернуть вертикально",
+    "desc": "Повернуть вертикально",
+    "icon": "arrow-down-up"
+  },
+  {
+    "id": "reset-zoom",
+    "name": "Сбросить приближение",
+    "desc": "Сбросить приближение",
+    "icon": "arrows-fullscreen"
+  },
+  {
+    "id": "zoom-in",
+    "name": "Приблизить",
+    "desc": "Приблизить",
+    "icon": "arrows-angle-expand"
+  },
+  {
+    "id": "zoom-out",
+    "name": "Отдалить",
+    "desc": "Отдалить",
+    "icon": "arrows-angle-contract"
+  },
+  {
+    "id": "layer-up",
+    "name": "Поднять слой выше",
+    "desc": "Поднять слой выше",
+    "icon": "front"
+  },
+  {
+    "id": "layer-down",
+    "name": "Опустить слой ниже",
+    "desc": "Опустить слой ниже",
+    "icon": "back"
+  },
+  {
+    "id": "hotkey",
+    "name": "Горячие клавиши",
+    "desc": "Горячие клавиши",
+    "icon": "keyboard-fill"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "type": "text",
+    "id": "sample-text-1",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "serif",
+    "text": "serif"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-2",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Fira Mono', monospace",
+    "text": "Fira Mono world"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-3",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Hurricane', cursive",
+    "text": "Hurricane"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-4",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'League Gothic', sans-serif",
+    "text": "League Gothic"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-5",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Roboto Slab', serif",
+    "text": "Roboto Slab"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-6",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Nanum Gothic', sans-serif",
+    "text": "Nanum Gothic"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-7",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Do Hyeon', sans-serif",
+    "text": "Do Hyeon"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-8",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Gamja Flower', cursive",
+    "text": "Gamja Flower"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-9",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Jua', sans-serif",
+    "text": "Jua"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-14",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'ZCOOL KuaiLe', cursive",
+    "text": "ZCOOL KuaiLe"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-21",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Anton', sans-serif",
+    "text": "Anton"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-22",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Dancing Script', cursive",
+    "text": "Dancing Script"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-23",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Inconsolata', monospace",
+    "text": "Incon solata"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-24",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Open Sans', sans-serif",
+    "text": "Open Sans"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-25",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Playfair Display', serif",
+    "text": "Playfair Display"
+  },
+  {
+    "type": "text",
+    "id": "sample-text-26",
+    "width": 250,
+    "height": 35,
+    "fontSize": 30,
+    "fontFamily": "'Roboto Mono', monospace",
+    "text": "Roboto Mono"
+  }
+]

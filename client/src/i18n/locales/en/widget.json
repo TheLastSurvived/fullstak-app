@@ -1,0 +1,108 @@
+{
+  "image": {
+    "id": "image",
+    "name": "Картинка"
+  },
+  "colorPalette": {
+    "id": "colorPalette",
+    "name": "Цветовая палитра",
+    "opacity": {
+      "name": "Прозрачность"
+    },
+    "brightness": {
+      "name": "Яркость"
+    },
+    "grayScale": {
+      "name": "Серая шкала"
+    },
+    "addColor": {
+      "name": "Добавить цвет"
+    },
+    "clearColor": {
+      "name": "Удалить цвет\n(Нажмите shift для изменения цвета контура)"
+    }
+  },
+  "align": {
+    "id": "align",
+    "name": "Выравнивание",
+    "left": {
+      "name": "Лево"
+    },
+    "center": {
+      "name": "Центр(верт)"
+    },
+    "right": {
+      "name": "Право"
+    },
+    "top": {
+      "name": "Верх"
+    },
+    "middle": {
+      "name": "Центр(гориз)"
+    },
+    "bottom": {
+      "name": "Низ"
+    }
+  },
+  "frame": {
+    "id": "frame",
+    "name": "Фрейм",
+    "Меню": {
+      "name": "Меню",
+      "id": "Меню",
+      "width": 2480,
+      "height": 3508
+    },
+      "Визитки": {
+      "name": "Визитки",
+      "id": "Визитки",
+      "width": 100,
+      "height": 100
+    },
+    "Листовки": {
+      "name": "Листовки",
+      "id": "Листовки",
+      "width": 512,
+      "height": 512
+    },
+    "Банер": {
+      "name": "Банер",
+      "id": "Банер",
+      "width": 1240,
+      "height": 1240
+    }
+  },
+  "shape": {
+    "id": "shape",
+    "name": "Фигура"
+  },
+  "text": {
+    "id": "text",
+    "name": "Текст"
+  },
+  "icon": {
+    "id": "icon",
+    "name": "Иконка",
+    "search": {
+      "title": "Найти иконку",
+      "placeholder": "Найти иконку",
+      "desc": ""
+    }
+  },
+  "export": {
+    "id": "export",
+    "name": "Экспорт",
+    "export-all-frame": {
+      "type": "export",
+      "id": "export-all-frame",
+      "name": "Экспорт всех фреймов",
+      "icon": "download"
+    },
+    "export-selected": {
+      "type": "export",
+      "id": "export-selected",
+      "name": "Экспорт выбранного фрейма",
+      "icon": "box-arrow-down"
+    }
+  }
+}
